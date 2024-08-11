@@ -2,7 +2,7 @@
 
 ## Introduction
 
-we propose a simple but effective training method named Colo-ReID, which can help our model learn more general and discriminative knowledge based on the meta-learning strategy in scenarios with fewer samples. Based on this, a dynamic Meta-Learning Regulation mechanism called MLR is introduced to further boost the performance of polyp re-identification. Our experimental results show that Colo-ReID consistently outperforms second-best method in terms of mAP performance by +2.3% on polyp re-identification task.
+We propose a simple but effective training method named Colo-ReID, which can help our model learn more general and discriminative knowledge based on the meta-learning strategy in scenarios with fewer samples. Based on this, a dynamic Meta-Learning Regulation mechanism called MLR is introduced to further boost the performance of polyp re-identification. Our experimental results show that Colo-ReID consistently outperforms second-best method in terms of mAP performance by +2.3% on polyp re-identification task.
 
 <img src='figs/Colo-ReID.png'/>
 
@@ -15,9 +15,6 @@ The following assumes conda is installed.
 ## Contributing
 See the [CONTRIBUTING](CONTRIBUTING.md) file for how to help out.
 
-## License
-
-TorchMultimodal is BSD licensed, as found in the [LICENSE](LICENSE) file.
 
 ## Acknowledgments
 This work was supported by the National Natural Science Foundation of China under Projects (Grant No. 62301315).
